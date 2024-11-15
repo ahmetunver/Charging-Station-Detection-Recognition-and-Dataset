@@ -26,6 +26,7 @@ Paste the path of the provided weight file into its corresponding place in the c
 
 Creators' GitHub Accounts
 [ahmetunver](https://github.com/ahmetunver)
+and
 [ulasagrts](https://github.com/ulasagrts)
 
                                                       FOR TURKISH USERS
@@ -58,4 +59,5 @@ verdiğimiz ağırlık dosyasının yolunu ilgili kodda ait olduğu yere yapış
 
 creatorlerin github hesabı :
 [ahmetunver](https://github.com/ahmetunver)
+ve
 [ulasagrts](https://github.com/ulasagrts)
