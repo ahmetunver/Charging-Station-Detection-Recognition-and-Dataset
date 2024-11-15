@@ -25,7 +25,7 @@ Paste the path of the provided weight file into its corresponding place in the c
 # model = YOLO("path_to_weight_file")
 
 Creators' GitHub Accounts
-@ahmetunver
+[@ahmetunver](https://github.com/ahmetunver)
 @ulasagrts
 
                                                       FOR TURKISH USERS
