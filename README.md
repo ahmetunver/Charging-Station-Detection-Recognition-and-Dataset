@@ -22,7 +22,7 @@ Install the opencv-python library: pip install opencv-python
 Paste the path of the provided weight file into its corresponding place in the code.
 
 (Define the model:)
-## model = YOLO("path_to_weight_file")
+model = YOLO("path_to_weight_file")
 
 Creators' GitHub Accounts
 [ahmetunver](https://github.com/ahmetunver)
@@ -53,7 +53,7 @@ ultralytic kütüphanesini yüklemek: pip install ultralytics
 opencv kütüphanesi yüklemek: pip install opencv-python
 
 verdiğimiz ağırlık dosyasının yolunu ilgili kodda ait olduğu yere yapıştırmak
-# model = YOLO("path_to_weight_file")
+model = YOLO("path_to_weight_file")
 
 
 
