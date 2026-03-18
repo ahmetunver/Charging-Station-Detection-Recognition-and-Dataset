@@ -26,8 +26,7 @@ model = YOLO("path_to_weight_file")
 
 Creators' GitHub Accounts
 [ahmetunver](https://github.com/ahmetunver)
-and
-[ulasagrts](https://github.com/ulasagrts)
+
 
                                                       FOR TURKISH USERS
                                                               |
@@ -59,5 +58,4 @@ model = YOLO("path_to_weight_file")
 
 creatorlerin github hesabı :
 [ahmetunver](https://github.com/ahmetunver)
-ve
-[ulasagrts](https://github.com/ulasagrts)
+
